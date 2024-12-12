@@ -7,7 +7,6 @@ const bree = new Bree({
   defaultExtension: "ts",
   jobs,
 });
-
 // THis is a bug fix!
-
+// Bug fix 3
 await bree.start();
