@@ -9,4 +9,5 @@ const bree = new Bree({
 });
 // THis is a bug fix!
 // Bug fix 3
+// Bug fix 5
 await bree.start();
